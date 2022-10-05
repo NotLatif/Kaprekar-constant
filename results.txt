@@ -7,7 +7,7 @@ Most passes: 7
 # of results with 5 passes: 1379
 # of results with 6 passes: 1508
 # of results with 7 passes: 1980
-# of times a number was calculated
+# of times a number was calculated (ends @ line 715)
 	1: 1
 	11: 3
 	12: 6
